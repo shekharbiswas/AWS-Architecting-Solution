@@ -8,7 +8,7 @@ We can use [Creately](https://app.creately.com/) for diagram / flowchart.
 
 ## Migration 
 
-[White Paper](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/migration-lens/migration-lens.pdf#migration-lens)https://docs.aws.amazon.com/pdfs/wellarchitected/latest/migration-lens/migration-lens.pdf#migration-lens
+[White Paper](https://docs.aws.amazon.com/pdfs/wellarchitected/latest/migration-lens/migration-lens.pdf#migration-lens)
 
 
 
