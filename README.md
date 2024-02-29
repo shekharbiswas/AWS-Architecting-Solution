@@ -1,9 +1,13 @@
 # Architecting Solutions on AWS
 
-It explores architecting solutions on AWS in the context of four unique scenarios. Each week, you will be presented with a customer use case. You will then view videos that design a solution to meet the customer’s needs, step by step. This process will result in an AWS architecture diagram at the end of each week. If you want to follow along and also design the AWS architectures, you can use various tools to build your diagram. To view drawing and diagramming tools, see 
-AWS Architecture Icons.
+It explores architecting solutions on AWS in the context of four unique scenarios.  We will see 4 customer use cases. 
 
-We can use [Creately](https://app.creately.com/) for diagram / flowchart.
+We will then design a solution to meet the customer’s needs, step by step. 
+This process will result in an AWS architecture diagram at the end of each week. 
+
+To design the AWS architectures, one can use various tools to build your diagram. To view drawing and diagramming tools:
+
+[Creately](https://app.creately.com/) for diagram / flowchart.
 
 
 ## Migration 
